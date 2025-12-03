@@ -13,9 +13,9 @@ https://github.com/AlexSmall96/VeGastronomy
 Alex Small
 # Credits
 ## Media
-- The photos used on the site were taken from [Pexels](https://www.pexels.com///)
+The photos used on the site were taken from [Pexels](https://www.pexels.com///)
 ## Code
-- The resources used to create the code for this project were the Code Institute HTML and CSS Essentials module and the Love Running Walkthrough project.
+Built using guidance from Code Institute materials and public CSS tutorials.
 
 
 
