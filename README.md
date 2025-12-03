@@ -1,15 +1,13 @@
 # VeGastronomy 
+## ⚠️ARCHIVED PROJECT
+
+**This is an archived project from my bootcamp with [Code Institute](https://codeinstitute.net) in 2023, kept for historical reference. It does not represent my current skill level or tech stack.**
 
 VeGastronomy is a fictional, fully plant based, fine dining restaurant based in Edinburgh, Scotland. The cuisine is based on classical dishes, reinvented with a vegan twist. The restaurant aims to fill the gap in the vegan niche of the Edinburgh catering industry, providing a truly remarkable dining experience while maintaining the restaurant's ethics and philosophy of being plant based. 
 
 The title of the restuarant is a combination of Vegan and the word "Gastronomy" which is defined as "the art and knowledge involved in preparing and eating good food". 
 
 This site is designed to attract customers, provide an overview of the restaurants philosophy, cuisine and style, and allow customers to make bookings.
-## Live Site 
-
-https://alexsmall96.github.io/VeGastronomy/index.html
-
-![](documentation/responsive-image.png)
 
 ## Repository 
 
