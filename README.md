@@ -5,6 +5,8 @@
 
 VeGastronomy is a fictional, fully plant-based, fine dining restaurant website built using HTML and CSS during my early learning phase. 
 
+![Archived UI Screenshot](archived/documentation/responsive-image.png)
+
 ## Repository 
 https://github.com/AlexSmall96/VeGastronomy
 ## Author 
